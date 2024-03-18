@@ -1,1 +1,1 @@
-# PropertesShop
+# PropertiesShop
